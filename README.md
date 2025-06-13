@@ -1,6 +1,8 @@
-<img width="1680" alt="Screenshot 2025-06-11 at 23 37 39" src="https://github.com/user-attachments/assets/423e7d91-a832-4d41-acab-0861e76d0d77" /># 🏥 MediBot – Your AI Medical Assistant
+<img width="1276" alt="Screenshot 2025-06-11 at 16 33 10" src="https://github.com/user-attachments/assets/0879f3cb-875c-481d-a179-cf4921a9b099" />
+# 🏥 MediBot – Your AI Medical Assistant
 
 MediBot is an AI-powered health assistant designed to save doctors time and improve patient care. Built in under 48 hours for a health hackathon, MediBot automatically summarizes patient records, generates voice-based reports, and creates AI-generated video summaries.
+
 
 ---
 
